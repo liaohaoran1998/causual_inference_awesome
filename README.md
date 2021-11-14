@@ -7,17 +7,15 @@
 * 知乎系列 [[1](https://zhuanlan.zhihu.com/p/397796913),[2](https://zhuanlan.zhihu.com/p/397974913),[3](https://zhuanlan.zhihu.com/p/398643910),[4](https://zhuanlan.zhihu.com/p/398938743),[5](https://zhuanlan.zhihu.com/p/399322196)]
 ## Papers
 
-### Keywords
-* **On measurement bias in causal inference**, UAI, 2010. [paper](http://ftp.cs.ucla.edu/pub/stat_ser/r357.pdf)  
-Judea Pearl
-
-### Counterfactual 
+### 2019
 1. **Counterfactual Story Reasoning and Generation**, EMNLP, 2019. [[paper](https://arxiv.org/pdf/1909.04076.pdf), [code](https://github.com/qkaren/Counterfactual-StoryRW)]  
 Lianhui Qin, Antoine Bosselut, Ari Holtzman, Chandra Bhagavatula, Elizabeth Clark, Yejin Choi.
+### 2020
 1. **Counterfactual Generator: A Weakly-Supervised Method for Named Entity Recognition**, EMNLP, 2020. [[paper](https://aclanthology.org/2020.emnlp-main.590.pdf), [code](https://github.com/xijiz/cfgen)]  
 Xiangji Zeng, Yunliang Li, Yuchen Zhai, Yin Zhang.  
 1. **Counterfactual Vision and Language Learning**, CVPR, 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Abbasnejad_Counterfactual_Vision_and_Language_Learning_CVPR_2020_paper.pdf)]  
 Ehsan Abbasnejad ,Damien Teney ,Amin Parvaneh ,Javen Shi ,Anton van den Hengel
+### 2021
 1. **Counterfactual Data Augmentation for Neural Machine Translation**, NAACL-HLT, 2021. [[paper](https://aclanthology.org/2021.naacl-main.18.pdf)]  
 Qi Liu, Matt J. Kusner, Phil Blunsom
 1. **KACE: Generating Knowledge Aware Contrastive Explanations for Natural Language Inference**, ACL, 2021. [[paper](https://aclanthology.org/2021.acl-long.196.pdf)]  
@@ -25,7 +23,10 @@ Qianglong Chen, Feng Ji, Xiangji Zeng, Feng-Lin Li, Ji Zhang, Haiqing Chen, Yin 
 
 
 
-### Text  
+### To-Read-list 
+- before
+  1. **On measurement bias in causal inference**, UAI, 2010. [paper](http://ftp.cs.ucla.edu/pub/stat_ser/r357.pdf)  
+Judea Pearl
 - 2020
   1. **Exploring Logically Dependent Multi-task Learning with Causal Inference**, EMNLP, 2020. [paper](https://aclanthology.org/2020.emnlp-main.173.pdf)  
   Wenqing Chen ,Jidong Tian ,Liqiang Xiao ,Hao He ,Yaohui Jin.
