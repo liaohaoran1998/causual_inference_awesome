@@ -1,6 +1,6 @@
 按阅读顺序  
 
-1. **Counterfactual Story Reasoning and Generation**, EMNLP, 2019. [[paper](https://arxiv.org/pdf/1909.04076.pdf),[code](https://github.com/qkaren/Counterfactual-StoryRW)]  
+1. **Counterfactual Story Reasoning and Generation**, EMNLP, 2019. [[paper](https://arxiv.org/pdf/1909.04076.pdf), [code](https://github.com/qkaren/Counterfactual-StoryRW)]  
     - new task: *Counterfactual Story Rewriting*
     - new dataset: *TIMETRAVEL*
     - compete several baselines
@@ -12,10 +12,14 @@
     - task: *Named Entity Recognition* (NER)
     - core idea: intervene on the location entity
     - propose counterfactual generator to augment dataset; eliminate spurious correlations (mostly *identity*); improves generalization under limited data.
-1. **Counterfactual Data Augmentation for Neural Machine Translation**, NAACL-HLT, 2021. [paper](https://aclanthology.org/2021.naacl-main.18.pdf) 
+1. **Counterfactual Data Augmentation for Neural Machine Translation**, NAACL-HLT, 2021. [[paper](https://aclanthology.org/2021.naacl-main.18.pdf)]  
     - task: *Neural machine translation* (NMT)
     - core idea: generate counterfactual aligned phrases
     - interpret translation language model as a Gumbel-Max Structural Causal Model.
 1. **KACE: Generating Knowledge Aware Contrastive Explanations for Natural Language Inference**, ACL, 2021. [[paper](https://aclanthology.org/2021.acl-long.196.pdf)]  
     - task: *explanation generation* and *natural language inference* (NLI)
     - core idea: perturbe/intervene and then
+1. **Adapting Text Embeddings for Causal Inference**, UAI, 2020. [[paper](http://proceedings.mlr.press/v124/veitch20a/veitch20a.pdf), [code](https://github.com/vveitch/causal-text-embeddings-tf2)]  
+    - task: *text causal estimation* based on embeddings
+    - core idea: use *supervised dimensionality reduction* and *efficient language modeling* (idea??) to learn embeddings
+    - emmmm....

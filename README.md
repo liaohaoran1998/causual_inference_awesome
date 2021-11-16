@@ -15,6 +15,8 @@ Lianhui Qin, Antoine Bosselut, Ari Holtzman, Chandra Bhagavatula, Elizabeth Clar
 Xiangji Zeng, Yunliang Li, Yuchen Zhai, Yin Zhang.  
 1. **Counterfactual Vision and Language Learning**, CVPR, 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Abbasnejad_Counterfactual_Vision_and_Language_Learning_CVPR_2020_paper.pdf)]  
 Ehsan Abbasnejad ,Damien Teney ,Amin Parvaneh ,Javen Shi ,Anton van den Hengel
+1. **Adapting Text Embeddings for Causal Inference**, UAI, 2020. [[paper](http://proceedings.mlr.press/v124/veitch20a/veitch20a.pdf), [code](https://github.com/vveitch/causal-text-embeddings-tf2)]  
+Victor Veitch, Dhanya Sridhar, David M. Blei.
 ### 2021
 1. **Counterfactual Data Augmentation for Neural Machine Translation**, NAACL-HLT, 2021. [[paper](https://aclanthology.org/2021.naacl-main.18.pdf)]  
 Qi Liu, Matt J. Kusner, Phil Blunsom
@@ -31,8 +33,7 @@ Judea Pearl
   1. **Exploring Logically Dependent Multi-task Learning with Causal Inference**, EMNLP, 2020. [paper](https://aclanthology.org/2020.emnlp-main.173.pdf)  
   Wenqing Chen ,Jidong Tian ,Liqiang Xiao ,Hao He ,Yaohui Jin.
   
-  1. **Adapting Text Embeddings for Causal Inference**, UAI, 2020. [paper](http://proceedings.mlr.press/v124/veitch20a/veitch20a.pdf)  
-  Victor Veitch, Dhanya Sridhar, David M. Blei.
+  
 - 2021 
   1. **Everything Has a Cause: Leveraging Causal Inference in Legal Text Analysis**, NAACL, 2021. [paper](https://arxiv.org/abs/2104.09420) [code](https://github.com/xxxiaol/GCI)  
   Xiao Liu, Da Yin, Yansong Feng, Yuting Wu, Dongyan Zhao.
